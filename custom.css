@@ -1,0 +1,9 @@
+/* 
+Place this file to your /whmcs/templates/orderforms/standard_cart/
+Then edit file common.tpl and add custom.css below style.css
+Have fun!
+*/
+
+/* Domain search box display after customer choose a product */
+#order-standard_cart .domain-selection-options .option { margin: 10px 0; background: inherit; border: 1px solid #ddd; }
+#order-standard_cart .domain-selection-options .option-selected { box-shadow: 0 1px 1px 0 #999; border: 0; background: #f9f9f9; }
